@@ -1,5 +1,5 @@
 # primeiro-projeto-node
-Backed com nodejs + Typescript utilizando conceitos de Orientação a Objeto
+Backed com Node.Js + Typescript utilizando conceitos de Orientação a Objeto
 
 ## Scripts disponíveis
 
